@@ -25,7 +25,7 @@ const profile = {
   leetcodeSolved: 289,
   huggingface: "https://huggingface.co/abhyush",
   kaggle: "https://www.kaggle.com/abhyushrajak/competitions",
-  photo: import.meta.env.BASE_URL + "profile.jpg", // place a square image in /public as profile.jpg OR use a full URL
+  photo: import.meta.env.BASE_URL + "profile.png", // place a square image in /public as profile.jpg OR use a full URL
   website: "",
   summary:
     "Software Engineer with ~4 years' experience building scalable Python‑based backends, microservices, and API integrations. Strong in ETL pipelines, cloud‑native deployments, and automation (AWS, Docker, CI/CD). Comfortable across SDLC/STLC, data engineering, OAuth, and modern frameworks (FastAPI, Flask) with deep database + REST expertise and practical AI/LLM integration.",
